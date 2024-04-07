@@ -1,0 +1,12 @@
+
+=> OOP stands for Object-Oriented Programming. It is a programming paradigm that revolves around the concept of "objects," which can contain data in the form of attributes or properties, and code in the form of methods or functions. OOP is based on several fundamental concepts, including:
+
+1. Classes and Objects: Classes are blueprints or templates for creating objects. They define the properties and behaviors that objects of the class will have. Objects are instances of classes.
+
+2. Encapsulation: Encapsulation is the bundling of data and methods that operate on the data into a single unit or class. It hides the internal state of objects from the outside world and only exposes the necessary functionality through methods.
+
+3. Inheritance: Inheritance is a mechanism by which a new class can inherit properties and behaviors from an existing class, known as the base class or superclass. This allows for code reuse and the creation of hierarchical relationships between classes.
+
+4. Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables a single interface to be used for entities of different types. Polymorphism can be achieved through method overloading or method overriding.
+
+5. Abstraction: Abstraction involves simplifying complex systems by modeling classes based on their essential characteristics and ignoring irrelevant details. It allows developers to focus on what an object does rather than how it does it.

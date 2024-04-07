@@ -1,0 +1,31 @@
+Approach:
+
+OOP:
+It focuses on organizing software around objects, which are instances of classes containing both data (attributes or properties) and behavior (methods or functions).
+
+POP: 
+It focuses on breaking down a program into smaller, procedural components or functions, which operate on data structures.
+
+Data Handling:
+
+OOP:
+Emphasizes encapsulation, where data and the operations that manipulate it are encapsulated within objects. Objects maintain their own state and expose methods to interact with that state.
+
+POP: 
+Typically uses global data structures and functions to manipulate them. Data and functions are decoupled, and functions can operate on data structures that are passed as arguments.
+
+Code Reusability:
+
+OOP: 
+Promotes code reusability through inheritance and polymorphism. Inheritance allows the creation of new classes based on existing ones, inheriting their attributes and methods. Polymorphism allows objects of different classes to be treated uniformly based on a common interface.
+
+POP: 
+May involve code duplication as functions are typically designed to operate on specific data structures. Reusability is achieved through the creation of generic functions or by copying and modifying existing code.
+
+Complexity Management:
+
+OOP: 
+Simplifies complex systems through abstraction, allowing developers to model real-world entities as objects with well-defined behaviors. Hierarchical relationships between objects can represent complex systems in a more manageable way.
+
+POP: 
+May lead to complex systems as programs grow larger, especially if proper modularization techniques are not employed. Large programs may become difficult to understand and maintain due to the lack of encapsulation and abstraction.
